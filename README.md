@@ -51,6 +51,7 @@ Sohaib Bachhau 2861352
 Jan den Hollander 2871677
 Javier Rojas Diez de la Lastra 2777445
 Yoram Eysbroek 2852434 
+Seb Duysens 2814168
 Vrije Universiteit Amsterdam  
 June 2025
 
