@@ -1,4 +1,4 @@
-# International Students and Housing Market Pressure in Amsterdam
+# A studies on the effect of student growth on Amsterdam’s growing housing affordability
 
 This project analyzes the relationship between the number of international students and the housing situation in Amsterdam using R. It includes visualizations and analysis of housing scarcity, cost-to-income ratios, and student presence per district over time.
 
