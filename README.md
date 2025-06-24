@@ -29,6 +29,9 @@ This project analyzes the relationship between the number of international stude
 - `wijk_data_2023.csv`
 - `wijk_data_2024.csv`
 - `student_data_1900_2025.csv`
+- `data.xlsx` *(filtered version used in the analysis)*
+
+- > ⚠️ **Note:** The `.csv` files contain raw data and are not filtered. We used `data.xlsx` to work with the cleaned and filtered datasets during analysis.
 
 ## How to run
 
